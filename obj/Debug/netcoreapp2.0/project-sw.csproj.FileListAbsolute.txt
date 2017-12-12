@@ -1,0 +1,3 @@
+/home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.csproj.CoreCompileInputs.cache
+/home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.AssemblyInfoInputs.cache
+/home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.AssemblyInfo.cs
