@@ -1,3 +1,10 @@
 /home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.csproj.CoreCompileInputs.cache
 /home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.AssemblyInfoInputs.cache
 /home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.AssemblyInfo.cs
+/home/davidpaulos/projeto/project-sw/bin/Debug/netcoreapp2.0/project-sw.deps.json
+/home/davidpaulos/projeto/project-sw/bin/Debug/netcoreapp2.0/project-sw.runtimeconfig.json
+/home/davidpaulos/projeto/project-sw/bin/Debug/netcoreapp2.0/project-sw.runtimeconfig.dev.json
+/home/davidpaulos/projeto/project-sw/bin/Debug/netcoreapp2.0/project-sw.dll
+/home/davidpaulos/projeto/project-sw/bin/Debug/netcoreapp2.0/project-sw.pdb
+/home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.dll
+/home/davidpaulos/projeto/project-sw/obj/Debug/netcoreapp2.0/project-sw.pdb

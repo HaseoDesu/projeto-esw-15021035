@@ -6,7 +6,7 @@ namespace project_sw.Models {
                 return nome;
             }
             set {
-                if (value.Length > 125 || value.trim().Length < 1) return;
+                if (value.Length > 125 || value.Trim().Length < 1) return;
                 nome = value;
             }
         }
