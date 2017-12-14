@@ -9,5 +9,6 @@ namespace project_sw.Models {
                 AlunoId = value;
             }
         }
+        public virtual int CC{get;set;}
     }
 }

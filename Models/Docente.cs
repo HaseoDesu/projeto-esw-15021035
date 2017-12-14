@@ -1,5 +1,5 @@
 namespace project_sw.Models {
-    public class Docente: Candidato {
+    public class Docente {
         public long docenteId {
             get {
                 return docenteId;
@@ -9,5 +9,7 @@ namespace project_sw.Models {
                 docenteId = value;
             }
         }
+        
+        public virtual int CC{get;set;}
     }
 }

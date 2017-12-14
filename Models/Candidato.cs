@@ -1,12 +1,14 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace project_sw.Models {
-    public class Candidato: User {
+    public class Candidato{
         public String nome {
             get {
                 return nome;
             }
             set {
-                if (value.Length > 125 || value.Trim().Length < 1) return;
+                if (value.Length > 125 || value.Trim().Length    < 1) return;
                 nome = value;
             }
         }
@@ -20,7 +22,7 @@ namespace project_sw.Models {
             get;
             set;
         }
-
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime dataNascimento {
             get;
             set;
@@ -30,6 +32,8 @@ namespace project_sw.Models {
             get;
             set;
         }
+
+        public virtual int CC{get;set;}
 
     }
 }
